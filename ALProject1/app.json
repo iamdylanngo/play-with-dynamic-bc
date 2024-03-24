@@ -1,0 +1,32 @@
+{
+  "id": "89cc24b8-5c86-413a-b4d3-2c7f8121e5dc",
+  "name": "Example AL",
+  "publisher": "DylanOps",
+  "version": "1.0.0.1",
+  "brief": "",
+  "description": "A pet project to play with AL",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
